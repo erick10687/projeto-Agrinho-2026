@@ -7,8 +7,8 @@ body{
 
 /* Cabeçalho */
 header{
-  background:green;
-  color:white;
+  background:rgb(38, 3, 190);
+  color:rgb(1, 145, 241);
   padding:20px;
   text-align:center;
 }
@@ -20,6 +20,6 @@ section{
 
 /* Classe usada no modo escuro */
 .dark{
-  background:#222;
+  background:#222222;
   color:white;
 }
